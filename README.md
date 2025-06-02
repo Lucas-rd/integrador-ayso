@@ -20,4 +20,4 @@ Este es un programa básico en Python que permite al usuario ingresar **dos núm
 3. Abrí una terminal y ejecutá:
 
 ```bash
-python3 calculadora.py
+programaPythonIntegrador.py
